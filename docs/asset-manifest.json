@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.47fa9775.chunk.css",
-    "main.js": "/static/js/main.17736f84.chunk.js",
-    "main.js.map": "/static/js/main.17736f84.chunk.js.map",
+    "main.css": "/static/css/main.03f3363a.chunk.css",
+    "main.js": "/static/js/main.74754088.chunk.js",
+    "main.js.map": "/static/js/main.74754088.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
     "static/css/2.c6c1c8dd.chunk.css": "/static/css/2.c6c1c8dd.chunk.css",
-    "static/js/2.73a88f71.chunk.js": "/static/js/2.73a88f71.chunk.js",
-    "static/js/2.73a88f71.chunk.js.map": "/static/js/2.73a88f71.chunk.js.map",
+    "static/js/2.d3435ba1.chunk.js": "/static/js/2.d3435ba1.chunk.js",
+    "static/js/2.d3435ba1.chunk.js.map": "/static/js/2.d3435ba1.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d8fbc11a9b47b4bf1a400218e6099087.js": "/precache-manifest.d8fbc11a9b47b4bf1a400218e6099087.js",
+    "precache-manifest.51074bb02a6c954573e0c13e44ef44a5.js": "/precache-manifest.51074bb02a6c954573e0c13e44ef44a5.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.c6c1c8dd.chunk.css.map": "/static/css/2.c6c1c8dd.chunk.css.map",
-    "static/css/main.47fa9775.chunk.css.map": "/static/css/main.47fa9775.chunk.css.map",
+    "static/css/main.03f3363a.chunk.css.map": "/static/css/main.03f3363a.chunk.css.map",
     "static/media/mdb.css": "/static/media/arrow_right.8ef6a08c.svg",
     "static/media/acc1.wav": "/static/media/acc1.920d7cf0.wav",
     "static/media/acc2.wav": "/static/media/acc2.82add33f.wav",
@@ -20,11 +20,12 @@
     "static/media/audio1.wav": "/static/media/audio1.0f5bf8e8.wav",
     "static/media/audio2.wav": "/static/media/audio2.a1bda229.wav",
     "static/media/audio3.wav": "/static/media/audio3.3032beac.wav",
+    "static/media/caseStudy1.png": "/static/media/caseStudy1.47e5bc9f.png",
     "static/media/all.min.css": "/static/media/fa-solid-900.c2801fb4.svg",
-    "static/media/graph.png": "/static/media/graph.2a37fde3.png",
     "static/media/gyro1.wav": "/static/media/gyro1.33941c30.wav",
     "static/media/gyro2.wav": "/static/media/gyro2.4e868868.wav",
     "static/media/gyro3.wav": "/static/media/gyro3.756284c6.wav",
-    "static/media/microphone.png": "/static/media/microphone.a9a1715d.png"
+    "static/media/microphone.png": "/static/media/microphone.a9a1715d.png",
+    "static/media/overview.jpg": "/static/media/overview.beea0fa0.jpg"
   }
 }
